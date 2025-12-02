@@ -1,7 +1,9 @@
 # LAB-1-ATM
 ## ATM and Banking SYSTEM
+```
 NAME:Lokesh S
 REG NO: 212224230143
+```
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
